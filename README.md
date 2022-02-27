@@ -6,3 +6,6 @@ Pratica no uso do git
 - Configuração de ssh no github
 - Clone do projeto
 - Edit projeto
+
+## Emojis
+[Emojis do markdown](https://gist.github.com/rxaviers/7360908)
